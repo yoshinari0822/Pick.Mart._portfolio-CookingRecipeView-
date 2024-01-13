@@ -12,9 +12,9 @@
 
 ## プロジェクトについて
 
-React、DRF、Terraform を勉強する際に使用できるテンプレート
 
-<p>「Pick.Mart.」</p>
+<p><a href="">自作アプリ「Pick.Mart.」</a>を公開中</p>
+
 
 
 ## 環境
