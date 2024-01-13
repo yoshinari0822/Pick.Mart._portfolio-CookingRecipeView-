@@ -9,7 +9,3 @@
 <p>このプロジェクトはその中でも、献立を表示するView(CookingRecipeView)の簡易版になります。</p>
 
 
-
-make build
-
-を実行して Docker image を更新してください
