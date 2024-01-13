@@ -13,28 +13,11 @@
 ## プロジェクトについて
 
 
-<p><a href="">自作アプリ「Pick.Mart.」</a>を公開中</p>
+<p><a href="https://apps.apple.com/jp/app/pick-mart/id6474895773">自作アプリ「Pick.Mart.」</a>を公開中</p>
+<p>それに伴い、それぞれのViewの簡易化したものを僕自身のポートフォリオとして作成しています！</p>
+<p>このプロジェクトはその中でも、献立を表示するView(CookingRecipeView)の簡易版になります。</p>
 
 
-
-## 環境
-
-<!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
-
-| 言語・フレームワーク  | バージョン |
-| --------------------- | ---------- |
-| Python                | 3.11.4     |
-| Django                | 4.2.1      |
-| Django Rest Framework | 3.14.0     |
-| MySQL                 | 8.0        |
-| Node.js               | 16.17.0    |
-| React                 | 18.2.0     |
-| Next.js               | 13.4.6     |
-| Terraform             | 1.3.6      |
-
-その他のパッケージのバージョンは pyproject.toml と package.json を参照してください
-
-<p align="right">(<a href="#top">トップへ</a>)</p>
 
 ## ディレクトリ構成
 
